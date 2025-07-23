@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import { HeroSection } from "./hero";
 import dog1 from "./assets/images/dog1.webp";
